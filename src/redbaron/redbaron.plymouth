@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=redbaron
+Description=Redbaron boot theme
+Comment=created By Conner Ohnesorge thanks to GeNix7000 from cab
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/redbaron
+ScriptFile=/usr/share/plymouth/themes/redbaron/redbaron.script
